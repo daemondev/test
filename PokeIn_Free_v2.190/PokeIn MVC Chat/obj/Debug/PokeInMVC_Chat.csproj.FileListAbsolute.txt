@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\bin\PokeInMVC_Chat.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\bin\PokeInMVC_Chat.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\obj\Debug\PokeInMVC_Chat.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\obj\Debug\PokeInMVC_Chat.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn MVC Chat\obj\Debug\PokeInMVC_Chat.pdb

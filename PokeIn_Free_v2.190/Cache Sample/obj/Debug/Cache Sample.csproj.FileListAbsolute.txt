@@ -1,0 +1,10 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\bin\Debug\Cache Sample.exe.config
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\bin\Debug\Cache Sample.exe
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\bin\Debug\Cache Sample.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\bin\Debug\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\bin\Debug\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\obj\Debug\Cache_Sample.Form1.resources
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\obj\Debug\Cache_Sample.Properties.Resources.resources
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\obj\Debug\Cache Sample.csproj.GenerateResource.Cache
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\obj\Debug\Cache Sample.exe
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Cache Sample\obj\Debug\Cache Sample.pdb

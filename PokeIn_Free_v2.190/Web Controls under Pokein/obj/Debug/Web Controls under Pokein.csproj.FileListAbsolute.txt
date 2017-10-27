@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\bin\Web Controls under Pokein.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\bin\Web Controls under Pokein.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\obj\Debug\Web Controls under Pokein.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Web Controls under Pokein\obj\Debug\Web Controls under Pokein.pdb

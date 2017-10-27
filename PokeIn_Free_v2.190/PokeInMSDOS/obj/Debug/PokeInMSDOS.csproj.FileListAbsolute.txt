@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\bin\PokeInMSDOS.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\bin\PokeInMSDOS.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\obj\Debug\PokeInMSDOS.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\obj\Debug\PokeInMSDOS.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInMSDOS\obj\Debug\PokeInMSDOS.csprojResolveAssemblyReference.cache

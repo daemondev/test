@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\bin\EventsFromConfig.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\bin\EventsFromConfig.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\obj\Debug\EventsFromConfig.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\MultiPage & EventsFromConfig\obj\Debug\EventsFromConfig.pdb

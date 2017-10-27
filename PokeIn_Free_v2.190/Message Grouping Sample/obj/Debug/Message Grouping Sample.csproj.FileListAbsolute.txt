@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\bin\Message Grouping Sample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\bin\Message Grouping Sample.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\obj\Debug\Message Grouping Sample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Message Grouping Sample\obj\Debug\Message Grouping Sample.pdb

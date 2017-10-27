@@ -1,0 +1,7 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\bin\PokeIn Joint Sample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\bin\PokeIn Joint Sample.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\obj\Debug\PokeIn Joint Sample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\obj\Debug\PokeIn Joint Sample.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeIn_Joint _Sample\obj\Debug\PokeIn Joint Sample.csprojResolveAssemblyReference.cache

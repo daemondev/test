@@ -1,0 +1,10 @@
+﻿* PokeIn Comet Ajax Library v2.190 (19 March 2013)
+* Copyright © PokeIn http://pokein.com
+
+What's new? 
+
+- Major: App Pool Crash Recovery Improvements
+- Minor: .NET 4.5 Binary fallback improvements
+
+This version is tested under ~100K virtual users’ load before released
+To boost your server performance (IIS) you may need to check our new "open source" IIS Tuner tool from http://IISTuner.codeplex.com

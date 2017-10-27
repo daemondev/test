@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\bin\PokeInSample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\bin\PokeInSample.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\obj\Debug\PokeInSample.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\PokeInSample\obj\Debug\PokeInSample.pdb

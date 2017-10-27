@@ -1,0 +1,2 @@
+https://blogs.msdn.microsoft.com/timlee/2013/03/21/hosting-a-signalr-application-on-windows-2008r2-and-iis-7-5/#config
+https://stackoverflow.com/questions/14128347/signalr-websockets-on-iis-7-5

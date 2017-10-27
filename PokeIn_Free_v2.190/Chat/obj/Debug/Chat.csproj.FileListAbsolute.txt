@@ -1,0 +1,6 @@
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\bin\Chat.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\bin\Chat.pdb
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\bin\PokeIn.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\bin\PokeIn.xml
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\obj\Debug\Chat.dll
+C:\Users\Administrador\Desktop\tmp\PokeIn_Free_v2.190\Chat\obj\Debug\Chat.pdb
